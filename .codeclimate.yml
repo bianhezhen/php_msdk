@@ -1,0 +1,4 @@
+languages:
+  PHP: true
+exclude_paths:
+- "MSDK_PHP_V1.0.1/msdks/lib/SnsNetwork.php"
